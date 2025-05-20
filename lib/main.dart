@@ -6,5 +6,6 @@ void main (){
 debugShowCheckedModeBanner: false,
 title: "From Example",
 home: LoginPage(),
+
   ));
 }
